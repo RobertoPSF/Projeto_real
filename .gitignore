@@ -1,0 +1,30 @@
+# Default ignored files
+.idea
+*.iml
+*.fpr
+fod.zip
+FoDPackage.zip
+.fod/
+.fortify/
+/target/
+/.classpath
+/.project
+/.settings/
+/.env
+/IWA.pdf
+.gradle/
+build/
+/iqReport.json
+/etc/WSD/
+/installs/
+/package.zip
+/IWAPharmacyDirect.pdf
+/FoDUpload.zip
+/IWAJava.pdf
+/fortify-sca.settings
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
